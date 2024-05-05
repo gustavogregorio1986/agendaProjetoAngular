@@ -9,5 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'angular-agenda';
+  title = 'Projeto de uma agenda';
+
+  titulo = 'Agenda web aberta'
 }
